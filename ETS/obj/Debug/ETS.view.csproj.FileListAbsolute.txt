@@ -1,0 +1,45 @@
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.exe.config
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.exe
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\obj\Debug\ETS.view.csprojResolveAssemblyReference.cache
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\obj\Debug\ETS.view.csproj.GenerateResource.Cache
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\obj\Debug\ETS.exe
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\obj\Debug\ETS.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\obj\Debug\ETS.Form1.resources
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.Domain.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.logic.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.data.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.Domain.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.logic.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS\bin\Debug\ETS.data.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.exe.config
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\obj\Debug\ETS.exe
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\obj\Debug\ETS.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.exe
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.Domain.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.logic.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.data.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.Domain.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.logic.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\bin\Debug\ETS.data.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\obj\Debug\ETS.view.csprojResolveAssemblyReference.cache
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\obj\Debug\ETS.Form1.resources
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS\obj\Debug\ETS.view.csproj.GenerateResource.Cache
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.exe.config
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\obj\Debug\ETS.exe
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\obj\Debug\ETS.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.exe
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.Domain.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.logic.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.data.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.Domain.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.logic.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\bin\Debug\ETS.data.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\obj\Debug\ETS.view.csprojResolveAssemblyReference.cache
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\obj\Debug\ETS.Form1.resources
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\obj\Debug\ETS.Properties.Resources.resources
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS\obj\Debug\ETS.view.csproj.GenerateResource.Cache

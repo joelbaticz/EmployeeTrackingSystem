@@ -1,0 +1,21 @@
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.data\bin\Debug\ETS.data.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.data\bin\Debug\ETS.data.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.data\bin\Debug\ETS.Domain.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.data\bin\Debug\ETS.Domain.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.data\obj\Debug\ETS.data.csprojResolveAssemblyReference.cache
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.data\obj\Debug\ETS.data.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.data\obj\Debug\ETS.data.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.data\bin\Debug\ETS.data.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.data\bin\Debug\ETS.data.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.data\bin\Debug\ETS.Domain.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.data\bin\Debug\ETS.Domain.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.data\obj\Debug\ETS.data.csprojResolveAssemblyReference.cache
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.data\obj\Debug\ETS.data.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.data\obj\Debug\ETS.data.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.data\bin\Debug\ETS.data.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.data\bin\Debug\ETS.data.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.data\bin\Debug\ETS.Domain.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.data\bin\Debug\ETS.Domain.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.data\obj\Debug\ETS.data.csprojResolveAssemblyReference.cache
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.data\obj\Debug\ETS.data.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.data\obj\Debug\ETS.data.pdb

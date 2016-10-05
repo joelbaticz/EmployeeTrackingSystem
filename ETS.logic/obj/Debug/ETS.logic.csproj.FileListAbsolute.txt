@@ -1,0 +1,27 @@
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.logic.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.logic.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\obj\Debug\ETS.logic.csprojResolveAssemblyReference.cache
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\obj\Debug\ETS.logic.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\obj\Debug\ETS.logic.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.data.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.Domain.dll
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.data.pdb
+S:\Joel\CertIVTerm2\Programming\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.Domain.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.logic.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.logic.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.data.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.Domain.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.data.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\bin\Debug\ETS.Domain.pdb
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\obj\Debug\ETS.logic.csprojResolveAssemblyReference.cache
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\obj\Debug\ETS.logic.dll
+F:\TAFE\Joel\2016\CertIV - Term 2\Programming2\ETSJoel\ETS\ETS.logic\obj\Debug\ETS.logic.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\bin\Debug\ETS.logic.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\bin\Debug\ETS.logic.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\bin\Debug\ETS.data.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\bin\Debug\ETS.Domain.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\bin\Debug\ETS.data.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\bin\Debug\ETS.Domain.pdb
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\obj\Debug\ETS.logic.csprojResolveAssemblyReference.cache
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\obj\Debug\ETS.logic.dll
+E:\TAFE\CertIV - Term 2\Programming2\ETSJoelPlus\ETS\ETS.logic\obj\Debug\ETS.logic.pdb
